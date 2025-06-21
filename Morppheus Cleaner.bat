@@ -8,7 +8,7 @@ cls
 echo.
 echo ********************************************
 echo *                                          *
-echo *    Bem-vindo ao Morppheus Cleaner DELUXE *
+echo *    Bem-vindo ao Morppheus Cleaner ~~~*   *
 echo *                                          *
 echo ********************************************
 echo.
